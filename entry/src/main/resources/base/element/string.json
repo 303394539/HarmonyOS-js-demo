@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "harmonyos_js_demo"
+    },
+    {
+      "name": "mainability_description",
+      "value": "JS_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "mainability2_description",
+      "value": "JS_Phone_Empty Feature Ability"
+    }
+  ]
+}

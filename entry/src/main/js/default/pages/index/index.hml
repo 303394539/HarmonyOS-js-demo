@@ -1,0 +1,17 @@
+<div class="container">
+    <text class="title">
+        {{ $t('strings.hello') }} {{ title }}
+    </text>
+    <button type="capsule" @click="onPushPhone" show="{{isPhone}}">
+        进入demo
+    </button>
+    <button type="capsule" @click="onPushTablet" show="{{isTablet}}">
+        进入demo
+    </button>
+    <button type="arc" @click="onPushWearable" show="{{isWearable}}">
+        进入demo
+    </button>
+    <button type="capsule" @click="onPushTv" show="{{isTv}}">
+        进入demo
+    </button>
+</div>
